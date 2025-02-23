@@ -17,7 +17,7 @@ spec:
         app: springapi
     spec:
       containers:
-        - image: conchim69/springapi:12
+        - image: conchim69/springapi:13
           name: springapi
           resources: {}
 status: {}
